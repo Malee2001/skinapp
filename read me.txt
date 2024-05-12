@@ -1,0 +1,8 @@
+requirements for installation,
+
+java version - openlogic-openjdk-17.0.10+7-windows-x64
+flutter version - flutter_windows_3.3.0-stable 
+vs code
+android studio
+
+after install this applications, open the source code in vs code and use 'flutter pub get', 'flutter run' command to run this project.
